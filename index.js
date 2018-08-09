@@ -59,7 +59,7 @@ document.getElementById('good').innerHTML =("Your item " + '(' + someProd + ')' 
   }   
 }
  
-//Onkeypress Handler
+
 
 
 
